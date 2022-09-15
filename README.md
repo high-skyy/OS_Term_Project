@@ -20,7 +20,7 @@
 -->
 <!-- PROJECT LOGO -->
 
-<center># CPU Scheduling Simulator</center>
+# **<center>CPU Scheduling Simulator</center>**
 
 
 
