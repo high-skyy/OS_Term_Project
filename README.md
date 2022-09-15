@@ -55,10 +55,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-- 7가지 CPU Scheduling Simulator 개발  
+- 7가지 CPU Scheduling Simulator 개발
   - FCFS, SJF, SRTF, RR, 비선점 Priority, 선점 Priority, 비선점 Priority with RR  
   
-- Input  
+- Input
   - (프로세스 수), 프로세스ID, 도착시간, 서비스시간, 우선순위, 시간할당량  
   
 - Output
