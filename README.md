@@ -30,11 +30,9 @@
   <ol>
     <li><a href="#brief-overview">Brief Overview</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#what-i-learned">What I Learned</a></li>
+    <li><a href="#team-review">Team Review</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
