@@ -19,14 +19,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <!-- PROJECT LOGO -->
-<br />
 
-<h3 align="center">CPU Scheduling Simulator</h3>
-
-
-
-
-</div>
+<center># CPU Scheduling Simulator</center>
 
 
 
@@ -61,9 +55,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+- 7가지 CPU Scheduling Simulator 개발
+  - FCFS, SJF, SRTF, RR, 비선점 Priority, 선점 Priority, 비선점 Priority with RR
+- Input : (프로세스 수), 프로세스ID, 도착시간, 서비스시간, 우선순위, 시간할당량
+- Output : gantt chart, 각 프로세스별 대기시간 및 평균 대기시간, 각 프로세스별 반환시간 및 평균 반환시간, 각 프로세스별 응답시간 및 평균 응답시간
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
