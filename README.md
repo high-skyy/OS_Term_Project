@@ -55,10 +55,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-- 7가지 CPU Scheduling Simulator 개발
-  - FCFS, SJF, SRTF, RR, 비선점 Priority, 선점 Priority, 비선점 Priority with RR
-- Input : (프로세스 수), 프로세스ID, 도착시간, 서비스시간, 우선순위, 시간할당량
-- Output : gantt chart, 각 프로세스별 대기시간 및 평균 대기시간, 각 프로세스별 반환시간 및 평균 반환시간, 각 프로세스별 응답시간 및 평균 응답시간
+- 7가지 CPU Scheduling Simulator 개발  
+  - FCFS, SJF, SRTF, RR, 비선점 Priority, 선점 Priority, 비선점 Priority with RR  
+  
+- Input  
+  - (프로세스 수), 프로세스ID, 도착시간, 서비스시간, 우선순위, 시간할당량  
+  
+- Output
+  - gantt chart, 각 프로세스별 대기시간 및 평균 대기시간, 각 프로세스별 반환시간 및 평균 반환시간, 각 프로세스별 응답시간 및 평균 응답시간
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
