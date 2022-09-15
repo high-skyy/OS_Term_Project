@@ -31,6 +31,8 @@
     <li><a href="#brief-overview">Brief Overview</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#class-diagram">Class Diagram</a><li>
+    <li><a href="#my-contribution">My Contribution</a></li>
     <li><a href="#what-i-learned">What I Learned</a></li>
     <li><a href="#team-review">Team Review</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -76,6 +78,30 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+<!-- CLASS DIAGRAM -->
+## Class Diagram
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- MY CONTRIBUTION -->
+## My Contribution
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- WHAT I LEARNED -->
+## What I Learned
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- TEAM REVIEW -->
+## Team Review
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
