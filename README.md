@@ -33,7 +33,7 @@
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#class-diagram">Class Diagram</a><li>
-    <li><a href="#my-contributions">My Contributions</a><li>
+    <li><a href="#my-contribution">My Contribution</a><li>
     <li><a href="#what-i-learned">What I Learned</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
