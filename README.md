@@ -99,11 +99,11 @@
 
 <!-- WHAT I LEARNED -->
 ## What I Learned
-- 프로그래밍 능력
+- 프로그래밍 능력  
 스켈레톤 코드를 직접 고민해서 구현하고 수정해 나가면서 C와 C++ 코딩 능력뿐만이 아닌 프로그램을 구현함에 있어 Class의 설계부터 Method의 구현까지 전체적인 흐름을 알게 되었다.
-- Modularization의 중요성
+- Modularization의 중요성  
 여러 테스트 케이스를 통해 프로그램의 robustness를 측정하는데 fail이 일어날 때마다 디버깅을 하기가 힘들었는데 여러 역할을 하는 함수를 분해하고 modularization을 시킴으로서 효율적으로 디버깅 및 버전 업데이트를 할 수 있게 되었다.
-- Communication의 중요성
+- Communication의 중요성  
 팀 별로 프로젝트가 진행될 때 다른 팀원들과 각 변수가 갖는 logical meaning에 대한 오해가 있어 문제가 발생하였으며 이는 추후에 주석을 자세하게 달아줌으로서 해결.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
