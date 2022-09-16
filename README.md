@@ -112,9 +112,9 @@
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Sdlkfjv](https://github.com/Sdlkfjv)
+* [JEONGSY99129](https://github.com/JEONGSY99129)
+* [kimjg1119](https://github.com/kimjg1119)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
