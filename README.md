@@ -90,6 +90,7 @@
 <!-- UI & FUNCTIONS -->
 ## UI
 <img width="704" alt="GUI" src="https://user-images.githubusercontent.com/105041834/190588251-89d6ed99-f475-4e31-a5ef-08f89b6313cc.png">
+
 ## Functions
 <ol>
 <li>Scheduling algorithm selection</li>
