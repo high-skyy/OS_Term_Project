@@ -34,6 +34,7 @@
   <li><a href="#built-with">Built With</a></li>
   <li><a href="#roadmap">Roadmap</a></li>
   <li><a href="#class-diagram">Class Diagram</a></li>
+  <li><a href="#gui-&-functions">Functions</a></li>
   <li><a href="#my-contribution">My Contribution</a></li>
   <li><a href="#what-i-learned">What I Learned</a></li>
   <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -86,6 +87,18 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GUI & FUNCTIONS -->
+## GUI & Functions
+<img width="704" alt="GUI" src="https://user-images.githubusercontent.com/105041834/190588251-89d6ed99-f475-4e31-a5ef-08f89b6313cc.png">
+<ol>
+<li>Scheduling algorithm selection</li>
+<li>Process input</li>
+<li>Input process list display</li>
+<li>Quantum apply</li>
+<li>Gantt chart display</li>
+<li>display of average waiting time, return time, response time</li>
+<li>display of waiting time, return time, response time for every process</li>
+</ol>
 
 <!-- MY CONTRIBUTIONS -->
 ## My Contribution
