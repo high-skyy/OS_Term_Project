@@ -74,8 +74,6 @@
 - [O] UI Platform implementation
     - [O] UI TEST
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -90,12 +88,17 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- MY CONTRIBUTION -->
 ## My Contribution
+- Algorithm Implementation (SRTJ, SJF)
+- Algorithm debugging and testing (program's robustness)
+- Refactoring
+  - Modularization for efficient debugging
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- WHAT I LEARNED -->
 ## What I Learned
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
