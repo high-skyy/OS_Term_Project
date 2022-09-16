@@ -28,13 +28,13 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-    1. <a href="#brief-overview">Brief Overview</a>
-    2. <a href="#built-with">Built With</a></li>
-    3. <a href="#roadmap">Roadmap</a></li>
-    4. <a href="#class-diagram">Class Diagram</a><li>
-    5. <a href="#my-contribution">My Contribution</a><li>
-    6. <a href="#what-i-learned">What I Learned</a></li>
-    7. <a href="#acknowledgments">Acknowledgments</a></li>
+  1. <a href="#brief-overview">Brief Overview</a>
+  2. <a href="#built-with">Built With</a></li>
+  3. <a href="#roadmap">Roadmap</a></li>
+  4. <a href="#class-diagram">Class Diagram</a><li>
+  5. <a href="#my-contribution">My Contribution</a><li>
+  6. <a href="#what-i-learned">What I Learned</a></li>
+  7. <a href="#acknowledgments">Acknowledgments</a></li>
 </details>
 
 
