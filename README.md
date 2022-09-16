@@ -34,7 +34,6 @@
     <li><a href="#class-diagram">Class Diagram</a><li>
     <li><a href="#my-contribution">My Contribution</a></li>
     <li><a href="#what-i-learned">What I Learned</a></li>
-    <li><a href="#team-review">Team Review</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -69,10 +68,11 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [O] Skeleton code
+- [O] 7 Alogrithm implementation
+    - [O] Algorithm TEST
+- [O] UI Platform implementation
+    - [O] UI TEST
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -82,6 +82,8 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- CLASS DIAGRAM -->
 ## Class Diagram
+![함수 다이어그램](https://user-images.githubusercontent.com/105041834/190543107-1b40b57c-710f-46a4-8a92-1e74d87d6b56.jpg)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,12 +96,6 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- WHAT I LEARNED -->
 ## What I Learned
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- TEAM REVIEW -->
-## Team Review
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
