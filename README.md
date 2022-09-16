@@ -29,7 +29,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#brief-overview">Brief Overview</a></li>
+    1. <a href="#brief-overview">Brief Overview</a>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#class-diagram">Class Diagram</a><li>
