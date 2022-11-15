@@ -115,7 +115,7 @@
   
 **- Previous Design**
   
-> Previously there was an object(Statistics) which stored the waiting time, return time, response time of a job. After the termination of the schedule algorithm function in Scheduler the Job object's Statistics(waitingTime, returnTime, responseTime) values were all updated and the schedule algorithm function returned the Gantt Chart(std::vector<Unit>).
+> Previously there was an object(Statistics) which stored the waiting time, return time, response time of a job. After the termination of the schedule algorithm function in Scheduler the Job object's Statistics(waitingTime, returnTime, responseTime) values were all updated and the schedule algorithm function returned the Gantt Chart(std::vector).
 
 ```
 # deleted class
@@ -155,7 +155,7 @@ void updateStat(const Statistics)
 
 **- Refactored design**
   
-> We deleted the Statistics class and all the methods related to it. The schedule algorithm function **only** returned the Gantt Chart(std::vector<Unit>). We made additional functions(input : Gantt Chart) that calculated the waiting time, return time, response time per process in the StatisticsManager.
+> We deleted the Statistics class and all the methods related to it. The schedule algorithm function **only** returned the Gantt Chart(std::vector). We made additional functions(input : Gantt Chart) that calculated the waiting time, return time, response time per process in the StatisticsManager.
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
