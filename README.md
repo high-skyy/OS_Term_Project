@@ -52,7 +52,7 @@
   - Number of processes, Process ID, Arrival time, Service time, Priority, Time quantum(for RR)
   
 **- Output**
-  - Gantt Chart(Using GUI), Average waiting time per process, Average return time per process, Average response time per process
+  - Gantt Chart(Using GUI), Average waiting time and waiting time per process, Average return time and return time per process, Average response time and response time per process
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +112,51 @@
   - Modularization for efficient debugging
 <details>
 <summary>Details</summary>
+- Previous Design
+Previously there was an object(Statistics) which stored the waiting time, return time, response time of a job.
 
+After the termination of the schedule algorithm function in Scheduler the Job object's Statistics(waitingTime, returnTime, responseTime) values were all updated and the schedule algorithm function returned the Gantt Chart(std::vector<Unit>).
+```
+# deleted class
+Statistics class {
+Instance variable:
+int waitingTime
+int returnTime
+int responseTime
+
+Instance method:
+Statistics ()
+Statistics (const int, const int, const int)
+void update (const Statistics)
+int getWaitingTime() const
+int getReturnTime() const
+int getResponseTime() const
+void updateResponseTime(int)
+void updateReturnTime(int)
+void updateResponseTime(int)
+}
+
+# Only the instance method below was deleted
+Job class {
+Instance variable:
+int processID
+int arrivalTime
+int serviceTime
+int priority
+Statistics stat
+
+Instance method:
+...
+void updateStat(const Statistics)
+...
+}
+```
+- Refactored design
+We deleted the Statistics class and all the methods related to it.
+
+The schedule algorithm function **only** returned the Gantt Chart(std::vector<Unit>).
+
+We made additional functions(input : Gantt Chart) that calculated the waiting time, return time, response time per process in the StatisticsManager.
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
