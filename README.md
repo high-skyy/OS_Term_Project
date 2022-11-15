@@ -82,8 +82,7 @@
 
 <!-- CLASS DIAGRAM -->
 ## Class Diagram
-![함수 다이어그램](https://user-images.githubusercontent.com/105041834/190543107-1b40b57c-710f-46a4-8a92-1e74d87d6b56.jpg)
-
+![후 design](https://user-images.githubusercontent.com/105041834/201979051-1ca1764d-2fb8-4cb3-be1c-f9df03863f2a.JPG)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,6 +114,8 @@
   
 **- Previous Design**
   
+![전 design](https://user-images.githubusercontent.com/105041834/201979058-6e750b55-598c-49f3-a109-cdfdb1de6390.JPG)
+
 > Previously there was an object(Statistics) which stored the waiting time, return time, response time of a job. After the termination of the schedule algorithm function in Scheduler the Job object's Statistics(waitingTime, returnTime, responseTime) values were all updated and the schedule algorithm function returned the Gantt Chart(std::vector).
 
 ```
