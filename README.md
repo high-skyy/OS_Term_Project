@@ -111,7 +111,7 @@
 - Refactoring
   - Modularization for efficient debugging
 <details>
-<summary>Details</summary>
+<summary>Refactoring Details</summary>
   
 **- Previous Design**
   
