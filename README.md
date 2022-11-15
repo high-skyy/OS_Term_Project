@@ -113,6 +113,7 @@
 <details>
 <summary>Details</summary>
 - Previous Design
+  
 > Previously there was an object(Statistics) which stored the waiting time, return time, response time of a job. After the termination of the schedule algorithm function in Scheduler the Job object's Statistics(waitingTime, returnTime, responseTime) values were all updated and the schedule algorithm function returned the Gantt Chart(std::vector<Unit>).
 
 ```
