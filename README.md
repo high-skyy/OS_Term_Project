@@ -111,7 +111,7 @@
 - Refactoring
   - Modularization for efficient debugging
 <details>
-<summary>details</summary>
+<summary>Details</summary>
 
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
