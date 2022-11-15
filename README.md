@@ -45,14 +45,14 @@
 <!-- ABOUT THE PROJECT -->
 ## Brief Overview
 
-**- 7가지 CPU Scheduling Simulator 개발**
-  - FCFS, SJF, SRTF, RR, 비선점 Priority, 선점 Priority, 비선점 Priority with RR  
+**- CPU Scheduling Simulator (7 different types)**
+  - FCFS, SJF, SRTF, RR, non preemptive priority, preemptive priority, non preemptive priority with RR  
   
 **- Input**
-  - (프로세스 수), 프로세스ID, 도착시간, 서비스시간, 우선순위, 시간할당량  
+  - Number of processes, Process ID, Arrival time, Service time, Priority, Time quantum(for RR)
   
 **- Output**
-  - gantt chart, 각 프로세스 별 대기시간 및 평균 대기시간, 각 프로세스 별 반환시간 및 평균 반환시간, 각 프로세스 별 응답시간 및 평균 응답시간
+  - Gantt Chart(Using GUI), Average waiting time per process, Average return time per process, Average response time per process
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,7 +71,7 @@
 ## Roadmap
 
 - [O] Skeleton code
-- [O] 7 Alogrithm implementation
+- [O] Alogrithm implementation
     - [O] Algorithm TEST
 - [O] UI Platform implementation
     - [O] UI TEST
@@ -105,21 +105,28 @@
 <!-- MY CONTRIBUTIONS -->
 ## My Contribution
 - Algorithm Implementation (SRTJ, SJF)
+  - OS_Term_Project/source/Scheduler.cpp
 - Algorithm debugging and testing (program's robustness)
+  - OS_Term_Project/source/testing.cpp (annotation)
 - Refactoring
   - Modularization for efficient debugging
+<details>
+<summary>details</summary>
 
+</details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- WHAT I LEARNED -->
-## What I Learned
-- **프로그래밍 능력**  
-스켈레톤 코드를 직접 고민해서 구현하고 수정해 나가면서 C와 C++ 코딩 능력뿐만이 아닌 프로그램을 구현함에 있어 Class의 설계부터 Method의 구현까지 전체적인 흐름을 알게 되었다.
-- **Modularization의 중요성**  
-여러 테스트 케이스를 통해 프로그램의 robustness를 측정하는데 fail이 일어날 때마다 디버깅을 하기가 힘들었는데 여러 역할을 하는 함수를 분해하고 modularization을 시킴으로서 효율적으로 디버깅 및 버전 업데이트를 할 수 있게 되었다.
-- **Communication의 중요성**  
-팀 별로 프로젝트가 진행될 때 다른 팀원들과 각 변수가 갖는 logical meaning에 대한 오해가 있어 문제가 발생하였으며 이는 추후에 주석을 자세하게 달아줌으로서 해결.
+## What I learned
+- **Programming skills**  
+Because I had just started majoring in computer science, the project itself was quite challenging. The implementation of the skeleten code improved my skills to design objects and object methods. Furthermore, through peer code reviews I learned the importance of clean coding and methods to avoid when coding. One of my teammates taught me to always code in a way that the code is readible to other people without any annotations.
+
+- **The importance of modularization**  
+When testing the robustness of our simulator with many test cases the simulator frequently failed and had errors. Due to the complicated design of the objects it was hard to troubleshoot all the problems. By dividing the object methods into many functions that have a single role, we could efficiently debug and update the program.
+
+- **The importance of communication when doing a team project**  
+Due to the misleading variable name and design we had a misunderstanding of what kind of function we were making. This made our team waste a significant amount of time. After this instance I learned that for clarification annotations are not an option.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
