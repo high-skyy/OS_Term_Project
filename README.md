@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 
 # **<center>CPU Scheduling Simulator</center>**
-## **<center>My First Project</center>**
+## **<center>My First Team Project</center>**
 
 
 
