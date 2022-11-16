@@ -34,7 +34,8 @@
   <li><a href="#built-with">Built With</a></li>
   <li><a href="#roadmap">Roadmap</a></li>
   <li><a href="#class-diagram">Class Diagram</a></li>
-  <li><a href="#ui-&-functions">UI & Functions</a></li>
+  <li><a href="#ui">UI</a></li>
+  <li><a href="#functions">Functions</a></li>
   <li><a href="#my-contribution">My Contribution</a></li>
   <li><a href="#what-i-learned">What I Learned</a></li>
   <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -87,9 +88,10 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- UI & FUNCTIONS -->
-## UI & Functions
+## UI
 <img width="704" alt="GUI" src="https://user-images.githubusercontent.com/105041834/190588251-89d6ed99-f475-4e31-a5ef-08f89b6313cc.png">
 
+## Functions
 <ol>
 <li>Scheduling algorithm selection</li>
 <li>Process input</li>
