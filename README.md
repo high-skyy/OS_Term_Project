@@ -47,13 +47,13 @@
 ## Brief Overview
 
 **- CPU Scheduling Simulator (7 different types)**
-  - FCFS, SJF, SRTF, RR, non preemptive priority, preemptive priority, non preemptive priority with RR  
+  - FCFS, SJF, SRTF, RR, non-preemptive priority, preemptive priority, non-preemptive priority with RR  
   
 **- Input**
-  - Number of processes, Process ID, Arrival time, Service time, Priority, Time quantum(for RR)
+  - Number of processes, Process ID, Arrival time, Service time, Priority, Time (quantum for RR)
   
 **- Output**
-  - Gantt Chart(Using GUI), Average waiting time and waiting time per process, Average return time and return time per process, Average response time and response time per process
+  - Gantt Chart (Using GUI), Average waiting time and waiting time per process, Average return time and return time per process, Average response time and response time per process
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +72,7 @@
 ## Roadmap
 
 - [O] Skeleton code
-- [O] Alogrithm implementation
+- [O] Algorithm implementation
     - [O] Algorithm TEST
 - [O] UI Platform implementation
     - [O] UI TEST
@@ -98,8 +98,8 @@
 <li>Input process list display</li>
 <li>Quantum apply</li>
 <li>Gantt chart display</li>
-<li>display of average waiting time, return time, response time</li>
-<li>display of waiting time, return time, response time for every process</li>
+<li>Display of average waiting time, return time, response time</li>
+<li>Display of waiting time, return time, response time for every process</li>
 </ol>
 
 <!-- MY CONTRIBUTIONS -->
@@ -165,13 +165,13 @@ void updateStat(const Statistics)
 <!-- WHAT I LEARNED -->
 ## What I learned
 - **Programming skills**  
-Because I had just started majoring in computer science, the project itself was quite challenging. The implementation of the skeleten code improved my skills to design objects and object methods. Furthermore, through peer code reviews I learned the importance of clean coding and methods to avoid when coding. One of my teammates taught me to always code in a way that the code is readible to other people without any annotations.
+Because I had just started majoring in computer science, the project itself was quite challenging. The implementation of the skeleton code improved my skills to design objects and object methods. Furthermore, through peer code reviews, I learned the importance of clean coding and methods to avoid when coding. One of my teammates taught me to code in a way that the code is readable to other people without any annotations.
 
 - **The importance of modularization**  
-When testing the robustness of our simulator with many test cases the simulator frequently failed and had errors. Due to the complicated design of the objects it was hard to troubleshoot all the problems. By dividing the object methods into many functions that have a single role, we could efficiently debug and update the program.
+When testing the robustness of our simulator with many test cases the simulator frequently failed and had errors. Due to the complicated design of the objects, it was hard to troubleshoot all the problems. By dividing the object methods into many functions that have a single role, we could efficiently debug and update the program.
 
 - **The importance of communication when doing a team project**  
-Due to the misleading variable name and design we had a misunderstanding of what kind of function we were making. This made our team waste a significant amount of time. After this instance I learned that for clarification annotations are not an option.
+Due to the misleading variable name and design, we had a misunderstanding of what kind of function we were making. This made our team waste a significant amount of time. After this instance, I have learned that clear annotations are not optional but essential to avoid ambiguity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
